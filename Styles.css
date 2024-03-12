@@ -1,0 +1,173 @@
+body {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-top: auto;
+    background-color: #387FC8;
+    color:#010203;
+    border: 1px solid #ddd;
+    font-size: 18px;
+}
+.table {
+    width: 1000px;
+    border-collapse: collapse;
+    margin: 0;
+}
+th, td {
+    text-align: left;
+    background-color: #F3B552;
+}
+th {
+    /* background-color: #f2f2f2; */
+    background-color: #F3B552;
+}
+img {
+    display: block;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.nav {
+    font-size: 32px;
+    text-align: center;
+    background-color: #F3B552;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.nav a {
+    display: inline-block;
+    margin: 0 15px;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #010203;
+}
+
+.nav a:hover {
+    background-color: #f2f2f2;
+    color: #387FC8;
+}
+.title {
+    padding-top: 20px;
+    text-align: center;
+    background: linear-gradient(to right, #F3B552, #FBA02B,#F87022);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
+    border: 1px solid #ddd
+}
+h4 {
+    width: 50%;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+.coding {
+    width: 225%;
+    height: auto;
+    margin-left: -135%;
+    border: 2px solid #ddd
+
+}
+.CS {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 1px solid #ddd
+}
+.h5 {
+    width: 100%;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.title h1 {
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.course-link td {
+    display: block;
+    padding: 10px 0;
+}
+
+.course-link {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #010203;
+    text-decoration: none;
+}
+
+.course-link a:hover {
+    text-decoration: underline;
+    color: #387FC8
+}
+.study-year {
+    font-size: 28px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+.course-title {
+    font-size: 22px;
+    font-weight: bold;
+}
+.description {
+    font-size: 18px;
+}
+
+.learn-more {
+    font-size: 28px;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+
+.Source-sheet {
+    background-color: #F3B552;
+    font-size: 30px;
+    font-weight: bolder;
+    border: 1px solid #ddd;
+}
+
+.Image-Des {
+    font-size: 25px;
+}
+
+.Url-source {
+    font-size: 20px;
+}
+
+.yalda {
+    margin-top: 35px;
+    border: 1px solid #ddd
+    
+}
+.anwar {
+    width: 92.5%;
+    height: auto;
+    margin-left: 41px;
+    border: 1px solid #ddd
+}
+
+.daniel {
+    border: 1px solid #ddd
+}
+
+.center {
+    font-size: 22px;
+}
+
+.history-banner {
+   margin-top: -20px;
+}
+
+.Graduate {
+    width: 50%;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ddd
+}
